@@ -1,0 +1,7 @@
+Expresso atualização 11
+ 
+O que há de novo?
+ 
+- Consistencia na data/hora do servidor; 
+- Pequenos ajustes.
+ 
