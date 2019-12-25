@@ -1,4 +1,20 @@
-Expresso atualização 11
+Expresso atualização 552
+ 
+O que há de novo?
+ 
+- Consistencia na data/hora do servidor; 
+- Pequenos ajustes.
+ 
+ 
+Expresso atualização 551
+ 
+O que há de novo?
+ 
+- Consistencia na data/hora do servidor; 
+- Pequenos ajustes.
+ 
+ 
+Expresso atualização 526
  
 O que há de novo?
  
