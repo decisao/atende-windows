@@ -1,10 +1,11 @@
 # Taligent Expresso
 Aplicativo de Gestão Empresarial Fácil de Usar
 
+[![](https://www.taligent.com.br/images/logo.png)<br>**Visite o site do Taligent Expresso**](https://www.taligent.com.br/)
+
 Neste repositório estão as armazenadas as versões compiladas dos executáveis e código SQL necessário para manter o Expresso funcionando e atualizado.
 
-Para baixar a atualização mais recente acesse:
-https://github.com/decisao/expresso/releases/latest
+Para baixar a versão mais recente [![](http://wow.sapegin.me/3t282Z032y29/social-likes-next.png)<br>**clique aqui**](https://github.com/decisao/expresso/releases/latest/)
 
 Expresso atualização 552
  
