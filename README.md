@@ -5,7 +5,7 @@ Aplicativo de Gestão Empresarial Fácil de Usar
 
 Neste repositório estão as armazenadas as versões compiladas dos executáveis e código SQL necessário para manter o Expresso funcionando e atualizado.
 
-Para baixar a versão mais recente [![](http://wow.sapegin.me/3t282Z032y29/social-likes-next.png)<br>**clique aqui**](https://github.com/decisao/expresso/releases/latest/)
+Para baixar a versão mais recente [![]**clique aqui**](https://github.com/decisao/expresso/releases/latest/)
 
 Expresso atualização 552
  
