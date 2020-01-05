@@ -1,3 +1,11 @@
+Expresso atualização 554
+ 
+O que há de novo?
+ 
+- Teste de configuração inicial; 
+- Pequenos ajustes.
+ 
+ 
 Expresso atualização 553
  
 O que há de novo?
