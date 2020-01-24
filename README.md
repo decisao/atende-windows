@@ -6,6 +6,14 @@ Neste repositório estão as armazenadas as versões compiladas dos executáveis
 
 Para baixar a versão mais recente [**clique aqui**](https://github.com/decisao/expresso/releases/latest/)
 
+Expresso atualização 555
+ 
+O que há de novo?
+ 
+- Ajuste no servidor; 
+- Pequenos ajustes.
+ 
+ 
 Expresso atualização 554
  
 O que há de novo?
