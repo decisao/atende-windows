@@ -1,3 +1,11 @@
+Expresso atualização 558
+ 
+O que há de novo?
+ 
+- Novo motor de banco de dados; 
+- Maior velocidade de acesso.
+ 
+ 
 Expresso atualização 557
  
 O que há de novo?

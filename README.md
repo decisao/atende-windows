@@ -1,11 +1,19 @@
 [![](https://www.decisao.net/assets/img/logonly_black.png) ](https://www.decisao.net/)
 # Expresso
-Aplicativo de Gestão Empresarial fácil de usar
+Aplicativo de Gestão Empresarial para Windows fácil de usar
 
 Neste repositório estão as armazenadas as versões compiladas dos executáveis e código SQL necessário para manter o Expresso funcionando e atualizado.
 
 Para baixar a versão mais recente [**clique aqui**](https://github.com/decisao/expresso/releases/latest/)
 
+Expresso atualização 558
+ 
+O que há de novo?
+ 
+- Novo motor de banco de dados; 
+- Maior velocidade de acesso.
+ 
+ 
 Expresso atualização 557
  
 O que há de novo?
