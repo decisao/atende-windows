@@ -6,7 +6,7 @@ Neste repositório estão as armazenadas as versões compiladas dos executáveis
 
 Para baixar a versão mais recente [**clique aqui**](https://github.com/decisao/expresso/releases/latest/)
 
-# Histórico de atualização
+# Histórico de atualizações
 
 Expresso atualização 558
  
