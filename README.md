@@ -1,4 +1,4 @@
-[![](https://www.taligent.com.br/images/logo.png) ](https://www.taligent.com.br/)
+[![](https://www.decisao.net/assets/img/logonly_black.png) ](https://www.decisao.net/)
 # Expresso
 Aplicativo de Gestão Empresarial fácil de usar
 
