@@ -7,7 +7,6 @@ Neste repositório estão as armazenadas as versões compiladas dos executáveis
 Para baixar a versão mais recente [**clique aqui**](https://github.com/decisao/atende/releases/latest/)
 
 # Histórico de atualizações
-
 Expresso atualização 558
  
 O que há de novo?
