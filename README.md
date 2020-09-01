@@ -7,6 +7,14 @@ Neste repositório estão as armazenadas as versões compiladas dos executáveis
 Para baixar a versão mais recente [**clique aqui**](https://github.com/decisao/atende/releases/latest/)
 
 # Histórico de atualizações
+Atende atualização 570
+ 
+O que há de novo?
+ 
+- Melhoria nos updates; 
+- Disponivel na Windows Store.
+ 
+ 
 Atende atualização 567
  
 O que há de novo?
