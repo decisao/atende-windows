@@ -1,3 +1,11 @@
+Atende atualização 561
+ 
+O que há de novo?
+ 
+- Melhoria compatibilidade Windows 10s; 
+- Disponivel na Windows Store.
+ 
+ 
 Atende atualização 558
  
 O que há de novo?
