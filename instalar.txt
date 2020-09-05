@@ -1,3 +1,11 @@
+Atende atualização 574
+ 
+O que há de novo?
+ 
+- Melhoria no processo de download; 
+- Disponivel na Windows Store.
+ 
+ 
 Atende atualização 572
  
 O que há de novo?
