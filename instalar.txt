@@ -1,3 +1,11 @@
+Atende atualização 582
+ 
+O que há de novo?
+ 
+- Melhoria no comjunto de acesso; 
+- Disponivel na Windows Store.
+ 
+ 
 Atende atualização 581
  
 O que há de novo?
