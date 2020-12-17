@@ -9,6 +9,14 @@ Neste repositório estão as armazenadas as versões compiladas dos executáveis
 Se você é gerente de TI e precisa instalar em vários computadores de sua organização sem usar a Windows Store, baixe o [**instalador mais recente**](https://github.com/decisao/atende/releases/latest/) para instalar ou atualizar os computadores.
 
 # Histórico de atualizações
+Atende atualização 586
+ 
+O que há de novo?
+ 
+- Melhoria no financeiro; 
+- Disponivel na Windows Store.
+ 
+ 
 Atende atualização 585
  
 O que há de novo?
